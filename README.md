@@ -1,10 +1,8 @@
 # Exploratory Testing of InstaPay Mobile App
 
-**NTI Scholarship Project – Android & iOS**
-
 ## Overview
 
-As part of our NTI (National Telecommunication Institute) Scholarship, our team was tasked with performing an **Exploratory Test Plan** on the **InstaPay mobile application** (production version from App Store and Play Store).
+Our team Performed an **Exploratory Test Plan** on the **InstaPay mobile application** (production version from App Store and Play Store).
 
 Our objectives were to:
 

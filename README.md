@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our team Performed an **Exploratory Test Plan** on the **InstaPay mobile application** (production version from App Store and Play Store).
+Our team Performed an **Exploratory Test Plan** on the **InstaPay mobile application** (production version from App Store and Play Store) through out the app UI level.
 
 Our objectives were to:
 
@@ -79,4 +79,4 @@ Project executed by:
 
 ## Conclusion
 
-This project demonstrates that **structured exploratory testing provides high value** and helps identify user-impacting issues before they reach production. Finding 15 bugs in a highly trusted financial application reinforces the importance of combining **manual exploratory testing** with automated quality assurance efforts.
+This project demonstrates that **structured exploratory testing provides high value** and helps identify user-impacting issues before they reach production. Finding 15 bugs in a highly trusted financial application reinforces the importance of combining **manual exploratory testing**.

@@ -66,17 +66,6 @@ Available in this repository:
 
 ---
 
-## Team
-
-Project executed by:
-
-* **Mohamed Nader Abdelghany**
-* Kareem Hazem
-* Ramadan Monir
-* Khaled Abass
-
----
-
 ## Conclusion
 
 This project demonstrates that **structured exploratory testing provides high value** and helps identify user-impacting issues before they reach production. Finding 15 bugs in a highly trusted financial application reinforces the importance of combining **manual exploratory testing**.
